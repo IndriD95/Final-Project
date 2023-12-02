@@ -5,7 +5,6 @@ function BackToTopBtn({ scroll }) {
   const backToTop = () => {
     window.scrollTo(0, 0);
   };
-const name= "test"
   return (
     <a
       className={`back-to-top ${scroll > 100 ? 'active' : undefined}`}
