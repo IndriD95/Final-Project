@@ -1,7 +1,7 @@
 // import Bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-// import Swiper styles
+
 import 'swiper/css';
 
 // import AOS
