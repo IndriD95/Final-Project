@@ -1,0 +1,46 @@
+[
+  {
+    "_id": 1,
+    "thumbnail": "../assets/blogs/blog-1.jpeg",
+    "category": "5D Theatre",
+    "title": "Një kinema e përparuar që kombinon pamjen 3D me ndjesitë e lëvizjes, efektet e zërit dhe aromat, duke ofruar një përvojë tërheqëse dhe impresive për shikuesit.",
+    "author": {
+      "name": "Genti Muceku",
+      "image": "../assets/blogs/blog-author-1.jpg"
+    },
+    "date": "Jan 1, 2023"
+  },
+  {
+    "_id": 2,
+    "thumbnail": "../assets/blogs/blog-2.jpeg",
+    "category": "Disney",
+    "title": "Ikona e argëtimit, krijues i historive dhe personazheve të paharrueshëm që kanë influencuar kulturën pop për dekada me filma të tilla si The Lion King, Aladdin dhe Shrek",
+    "author": {
+      "name": "Eni Muso",
+      "image": "../assets/blogs/blog-author-2.jpg"
+    },
+    "date": "May 10, 2023"
+  },
+  {
+    "_id": 3,
+    "thumbnail": "../assets/blogs/blog-3.jpeg",
+    "category": "Theatre",
+    "title": "Ambiente për shfaqjen e performancave artistike si teatër dhe muzikë live, ku artistët lidhen me audiencën për të krijuar përvoja emocionuese dhe të mbresëlënëse.",
+    "author": {
+      "name": "Indri Demirneli",
+      "image": "../assets/blogs/blog-author-3.jpg"
+    },
+    "date": "June 23, 2023"
+  },
+  {
+    "_id": 4,
+    "thumbnail": "../assets/blogs/blog-4.jpeg",
+    "category": "3D Cinema",
+    "title": "Kinematë 3D ofrojnë përvojë vizuale ku pamjet janë të shfaqura në tre dimensione, duke përfshirë thellësi dhe perspektivë më të natyrshme për shikuesit. Këto ambiente përdorin teknologjinë për të paraqitur imazhe që përhapen jashtë ekranit tradicional, duke krijuar një përvojë më immersive dhe tërheqëse për ata që shohin.",
+    "author": {
+      "name": "Enxhi Muso",
+      "image": "../assets/blogs/blog-author-4.jpg"
+    },
+    "date": "July 23, 2023"
+  }
+]
