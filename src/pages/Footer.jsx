@@ -24,7 +24,7 @@ function Footer() {
           <div className="row gy-4">
             <div className="col-lg-5 col-md-12 footer-info">
               <a href="/" className="logo d-flex align-items-center">
-                <span>G & I CINEMA</span>
+                <span>Sarile Cinema</span>
               </a>
               <p>
 Mirë se vini në botën e magjisë së kinemasë!
@@ -65,7 +65,7 @@ Falenderimet i takojne trajnereve qe nuk u lodhen kurre duke na mbeshtetur...!
             </div>
 
             <div className="col-lg-2 col-6 footer-links">
-              <h4>G & I Cinemas</h4>
+              <h4>Sarile Cinema</h4>
               <ul>
                 {locations.map(link => (
                   <FooterNavItem key={link} name={link} />
@@ -83,7 +83,7 @@ Falenderimet i takojne trajnereve qe nuk u lodhen kurre duke na mbeshtetur...!
                 <br />
                 <strong>Phone:</strong> +355 (0) 69 984 8244
                 <br />
-                <strong>Email:</strong> GandIcinema@hotmail.com
+                <strong>Email:</strong> sarilecinema@hotmail.com
                 <br />
               </p>
             </div>
@@ -95,14 +95,14 @@ Falenderimet i takojne trajnereve qe nuk u lodhen kurre duke na mbeshtetur...!
         <div className="copyright">
           &copy; Copyright{' '}
           <strong>
-            <span>G & I Studio Technology</span>
+            <span>4 Fantastic Studio Technology</span>
           </strong>
           . All Rights Reserved 
           <br></br>
           Po e vodhet shkoni ne burg me pak fjale
         </div>
         <div className="credits">
-          Designed by <a href="#">G & I Studio Technology</a>
+          Designed by <a href="#">4 Fantastic Studio Technology</a>
         </div>
       </div>
     </footer>

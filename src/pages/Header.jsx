@@ -26,7 +26,7 @@ function Header({ scroll }) {
   return (
     <header className={`${scroll > 100 ? 'scrolled' : undefined}`}>
       <a href="/" className="logo">
-        G & I Cinema
+        Sarile Cinema
       </a>
 
       {open ? (
